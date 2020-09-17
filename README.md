@@ -10,17 +10,17 @@
     -(Camera for the Robot)
     
 ### Materials:
-[]Arduino Board w/ Breadboard
-[]DC Motors (2x)
-[]Ultra Sonic Sensors
-[]light sensors (4x)
-[]LEDs (4x) (Possibly different colors)
-[]Caster (for third wheel)
-[]Battery Pack 
+-[]Arduino Board w/ Breadboard
+-[]DC Motors (2x)
+-[]Ultra Sonic Sensors
+-[]light sensors (4x)
+-[]LEDs (4x) (Possibly different colors)
+-[]Caster (for third wheel)
+-[]Battery Pack 
 
 ### Materials that are going to be created though CAD and 3d software:
-[]Body
-[]Wheels
+-[]Body
+-[]Wheels
 
 ### Links to Desgins
 Virtual Circuit Design (through TinkerCAD):
