@@ -24,7 +24,7 @@
 
 ### Links to Desgins
 Virtual Circuit Design (through TinkerCAD):
-[Link Here]
+[https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20v2.png]
 
 CAD Designs for Body and Wheels:
 [Link Here]
