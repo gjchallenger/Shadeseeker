@@ -10,13 +10,17 @@
     -(Camera for the Robot)
     
 ### Materials:
-- Arduino Board w/ Breadboard
+- Arduino Board
+- Breadboard(s)
 - DC Motors (2x)
 - Ultra Sonic Sensors
 - light sensors (4x)
-- LEDs (4x) (Possibly different colors)
+- LEDs (4x) (Different colors)
 - Caster (for third wheel)
-- Battery Pack 
+- Speaker
+- Battery Pack
+- H Bridge
+- Resistors
 
 ### Materials that are going to be created though CAD and 3d software:
 - Body
@@ -27,5 +31,5 @@ Virtual Circuit Design (through TinkerCAD):
 [https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20v2.png]
 
 CAD Designs for Body and Wheels:
-[https://www.tinkercad.com/things/9lxXNSBclyU-shadeseeker-body-prototypes/edit] :warning: **Work in Progress**
+[https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Body%20Prototypes.stl] :warning: **Work in Progress**
 
