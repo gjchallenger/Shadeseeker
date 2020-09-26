@@ -27,5 +27,5 @@ Virtual Circuit Design (through TinkerCAD):
 [https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20v2.png]
 
 CAD Designs for Body and Wheels:
-[Link Here]
+[https://www.tinkercad.com/things/9lxXNSBclyU-shadeseeker-body-prototypes/edit] :warning: **Work in Progress**
 
