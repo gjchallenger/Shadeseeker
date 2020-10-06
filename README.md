@@ -27,9 +27,11 @@
 - Wheels
 
 ### Links to Desgins
+:warning: **Work in Progress, the final designs will be TinkerCAD links, for now these are the screenshots uploaded in github** :warning:
+
 Virtual Circuit Design (through TinkerCAD):
 [https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20v2.png]
 
 CAD Designs for Body and Wheels:
-[https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Body%20Prototypes.stl] :warning: **Work in Progress**
+[https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Body%20Prototypes.stl]
 
