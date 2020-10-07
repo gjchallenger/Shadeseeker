@@ -38,4 +38,4 @@ CAD Designs for Body, Wheels, and other parts:
 
 **Wheels:** https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Wheels.stl
 
-**Ultrasonic Sensor Housing:** 
+**Ultrasonic Sensor Housing:** https://github.com/gjchallenger/Shadeseeker/blob/master/Ultrasonic%20Sensor%20Housing.stl
