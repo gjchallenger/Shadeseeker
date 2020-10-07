@@ -8,17 +8,18 @@
     -(Optional, control from a computer possibly)
     -(Make a custom User Interface that warns user when a spot in a room is dark enough)
     -(Camera for the Robot)
+    -(LCD Screen for light levels)
     
 ### Materials:
-- Arduino Board
-- Breadboard(s)
+- Arduino Mega Board
+- Breadboard
 - DC Motors (2x)
-- Ultra Sonic Sensors
+- Ultra Sonic Sensors (2x)
 - light sensors (4x)
 - LEDs (4x) (Different colors)
 - Caster (for third wheel)
 - Speaker
-- Battery Pack
+- 9v Battery
 - H Bridge
 - Resistors
 
@@ -27,15 +28,15 @@
 - Wheels
 
 ### Links to Desgins
-:warning: **Work in Progress, for now these are the files and screenshots uploaded in github** :warning:
+:warning: **Work in Progress, recent updated files on tinkercad.com, rough drafts are on GitHub (will change when designs are finalized)** :warning:
 
 Virtual Circuit Design (through TinkerCAD):
 [https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20v2.png]
 
 CAD Designs for Body, Wheels, and other parts:
 
-**Body:** [https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Body%20Prototypes.stl]
+**Body:** https://www.tinkercad.com/things/0MY1HzGwbk0
 
-**Wheels:** https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Wheels.stl
+**Wheels:** https://www.tinkercad.com/things/6q6GZTfoZrR
 
-**Ultrasonic Sensor Housing:** https://github.com/gjchallenger/Shadeseeker/blob/master/Ultrasonic%20Sensor%20Housing.stl
+**Ultrasonic Sensor Housing:** https://www.tinkercad.com/things/eFMgypTtrJd
