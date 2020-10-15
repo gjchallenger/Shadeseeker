@@ -35,16 +35,18 @@ Virtual Circuit Design (through TinkerCAD):
 
 CAD Designs for Body, Wheels, and other parts:
 
-**Body:**
-   **Unit:** https://www.tinkercad.com/things/0MY1HzGwbk0-shadeseeker-body-rough-draft/edit :warning: Not the final version
-         **Front Panel:** https://www.tinkercad.com/things/8AUPkCHRit6-shadeseeker-front-panel/edit
-         **Back Panel:** https://www.tinkercad.com/things/2n6HGoyIedf/edit
-         **Side Panel:** https://www.tinkercad.com/things/aWZyMndeAZF-shadeseeker-body-side-panel/edit
-         **Bottom Panel:** https://www.tinkercad.com/things/fPUTtXHZZyd/edit
-         **Connectors:** https://www.tinkercad.com/things/8ZKgZZFuOCH-shadeseeker-connectors/edit
+#### Body:
 
-**Wheels:** 
-      https://www.tinkercad.com/things/6q6GZTfoZrR
+   - Unit: https://www.tinkercad.com/things/0MY1HzGwbk0-shadeseeker-body-rough-draft/edit :warning: Not the final version
+      - Front Panel: https://www.tinkercad.com/things/8AUPkCHRit6-shadeseeker-front-panel/edit
+      - Back Panel: https://www.tinkercad.com/things/2n6HGoyIedf/edit
+      - Side Panel: https://www.tinkercad.com/things/aWZyMndeAZF-shadeseeker-body-side-panel/edit
+      - Bottom Panel: https://www.tinkercad.com/things/fPUTtXHZZyd/edit
+      - Connectors: https://www.tinkercad.com/things/8ZKgZZFuOCH-shadeseeker-connectors/edit   
+      - Ultrasonic Sensor Housing: https://www.tinkercad.com/things/eFMgypTtrJd
 
-**Ultrasonic Sensor Housing:** 
-   https://www.tinkercad.com/things/eFMgypTtrJd
+#### Wheels:
+
+   - Wheels: https://www.tinkercad.com/things/6q6GZTfoZrR
+
+
