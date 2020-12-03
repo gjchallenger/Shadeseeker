@@ -24,12 +24,9 @@
 - Ultrasonic Sensor Housing
 
 ### Links to Desgins
-:warning: **Work in Progress, recent updated files on tinkercad.com, rough drafts are on GitHub (will change when designs are finalized)** :warning:
 
-Virtual Circuit Design (through TinkerCAD):
-[https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20v2.png]
-
-CAD Designs for Body, Wheels, and other parts:
+#### Virtual Circuit Design (through TinkerCAD):
+https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Circuit%20Design.PNG
 
 #### Body:
 https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Body.stl
@@ -39,4 +36,3 @@ https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Castor%20W
    
 #### Ultrasonic Sensor Housing:
 https://github.com/gjchallenger/Shadeseeker/blob/master/Ultrasonic%20Sensor%20Housing.stl
-
