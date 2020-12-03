@@ -32,11 +32,11 @@ Virtual Circuit Design (through TinkerCAD):
 CAD Designs for Body, Wheels, and other parts:
 
 #### Body:
-
+https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Body.stl
    
-
-#### Wheels:
-
+#### Castor Wheels:
+https://github.com/gjchallenger/Shadeseeker/blob/master/Shadeseeker%20Castor%20Wheel.stl
    
-
+#### Ultrasonic Sensor Housing:
+https://github.com/gjchallenger/Shadeseeker/blob/master/Ultrasonic%20Sensor%20Housing.stl
 
