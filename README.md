@@ -18,11 +18,6 @@
 - Resistors
 - Wheels (2x)
 
-### Materials that are going to be created though CAD and 3d software:
-- Body
-- Caster
-- Ultrasonic Sensor Housing
-
 ### Links to Desgins
 
 #### Virtual Circuit Design (through TinkerCAD):
