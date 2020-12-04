@@ -8,7 +8,7 @@ Last Updated: 12/3/2020 6:50PM
 #include "IRremote.h"
 #define RECEIVER_PIN 13
 
-// Pin Variables
+// Pin Variables.
 
 const int sensorPinUp = A0;    // Pins for the Light Sensors
 const int sensorPinLeft = A1;
