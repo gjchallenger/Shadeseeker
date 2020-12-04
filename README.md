@@ -8,7 +8,7 @@
 - Arduino Uno Board
 - Breadboard
 - DC Gearbox Motors (2x)
-- Ultra Sonic Sensors
+- Ultra Sonic Sensor
 - light sensors (3x)
 - RGB LED
 - Caster (for third wheel)
